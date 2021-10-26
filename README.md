@@ -1,4 +1,9 @@
 # c-giri-proje
+
+
+
+
+
 #include<iostream>
 using namespace std;
 struct zaman
